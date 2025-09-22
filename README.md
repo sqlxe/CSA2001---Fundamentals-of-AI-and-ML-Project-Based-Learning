@@ -28,6 +28,5 @@ python src/cli.py --map maps/small.map --algo astar --start 0 0 --goal 4 4
 
 See `requirements.md` for additional info related to automated evaluation.
 
-**Academic honesty**
-- This project is provided as a full working example for *learning and reference*. The submitter is responsible
-for ensuring that the final uploaded work follows their institution's policies for plagiarism and AI-detection.
+
+
