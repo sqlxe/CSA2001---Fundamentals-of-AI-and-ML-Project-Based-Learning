@@ -1,4 +1,4 @@
-# Delivery Agent Project (Fixed Package)
+# Delivery Agent Project
 
 This repository contains a small delivery-agent project implementing BFS, UCS, A*, and a local-search planner.
 It includes dynamic obstacle handling with a simple deterministic schedule (dynamic obstacles marked as 'D' move right each timestep).
